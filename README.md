@@ -8,7 +8,7 @@ Miért fontos a Java az FGC szempontjából? A Java-ra azért van szükség, mer
 *	https://www.w3schools.com/java/
 *	http://nagygusztav.hu/sites/default/files/csatol/java_programozas_1.3.pdf
 
-A feladatok megoldásához természetesen bármilyen IDE használható. A legelterjedtebb és legnépszerűbb IDE-k Java fejlesztésre:
+A feladatok megoldásához természetesen bármilyen IDE használható. A legelterjedtebb és legnépszerűbb IDE-k Java fejlesztéshez:
 
 * [IntelliJ IDEA](https://www.jetbrains.com/idea/)
 * [Eclipse](https://www.eclipse.org/ide/)
