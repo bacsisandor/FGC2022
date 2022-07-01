@@ -99,7 +99,7 @@ Visszatér a lenyomott gombok számával.
 
 ## Main class:
 
-A main függvényben az alábbi műveletek végezzük el:
+A main függvényben az alábbi műveleteket végezzük el:
 ```Java
 Controller ctrl = new Controller();
 ```
